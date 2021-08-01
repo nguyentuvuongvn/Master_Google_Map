@@ -1,0 +1,12 @@
+<resources>
+
+
+
+    <!-- TODO: Chỉnh tên của ứng dụng khi mở phần mềm -->
+    <string name="app_name">Master Torch</string>
+
+    <!-- TODO: Chỉnh tiêu đề của ứng dụng theo icon phần mềm -->
+    <!-- string name="title_activity_maps">Map</string> -->
+    <string name="title_activity_maps">Master Torch</string>
+
+</resources>

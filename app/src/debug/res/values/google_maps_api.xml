@@ -1,0 +1,37 @@
+<resources>
+
+
+
+    <!-- TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=78:A8:4E:6B:B6:26:89:BC:DF:51:61:26:32:A6:FF:6D:F1:72:37:55%3Bcom.example.mastertorch
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.mastertorch
+
+    SHA-1 certificate fingerprint:
+    78:A8:4E:6B:B6:26:89:BC:DF:51:61:26:32:A6:FF:6D:F1:72:37:55
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file. -->
+
+
+
+    <!-- TODO: Nhập mã API của bản đồ Google Map -->
+    <string
+        name="google_maps_key"
+        templateMergeStrategy="preserve"
+        translatable="false">
+        AIzaSyA7l6FU_zQdKo5FwbHl5Gfm9qvESIHz6cI
+    </string>
+
+
+
+</resources>
